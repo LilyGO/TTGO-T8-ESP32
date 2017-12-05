@@ -2,7 +2,7 @@
 esp32-i2s-sdcard-wav-player
 Connect hardware like below:
 
-[ESP32 IO32 – CS MICROSD]
+[ESP32 IO33 – CS MICROSD]
 
 [ESP32 IO14 – MOSI MICROSD]
 
