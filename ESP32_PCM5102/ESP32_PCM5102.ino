@@ -4,7 +4,7 @@
 
 #define CCCC(c1, c2, c3, c4)    ((c4 << 24) | (c3 << 16) | (c2 << 8) | c1)
 
-/* these are data structures to process wav file */
+/* These are data structures to process wav file */
 typedef enum headerState_e {
     HEADER_RIFF, HEADER_FMT, HEADER_DATA, DATA
 } headerState_t;
