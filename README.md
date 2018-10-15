@@ -1,4 +1,10 @@
 # TTGO-T8-ESP32
+
+## T8 V1.3
+![image](https://github.com/LilyGO/TTGO-T8-ESP32/blob/master/image/T8%201.3.jpg)
+## T8 V1.1
+![image](https://github.com/LilyGO/TTGO-T8-ESP32/blob/master/image/T8_V1.1.jpg)
+
 esp32-i2s-sdcard-wav-player
 Connect hardware like below:
 
