@@ -1,5 +1,7 @@
 # TTGO-T8-ESP32
 
+## T8 V1.7
+![image](https://github.com/LilyGO/TTGO-T8-ESP32/blob/master/image/T81.7.jpg)
 ## T8 V1.3
 ![image](https://github.com/LilyGO/TTGO-T8-ESP32/blob/master/image/T8%201.3.jpg)
 ## T8 V1.1
